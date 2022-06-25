@@ -6,4 +6,4 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 This is the link to my hosted page 
-Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+  Live Site URL: [https://mhizdhee.github.io/Order-summary-component-challenge/]
