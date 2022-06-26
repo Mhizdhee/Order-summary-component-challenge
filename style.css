@@ -107,7 +107,7 @@ button:hover {
   padding: 30px;
 }
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:800px) {
     body{
       background-image: url(Images/pattern-background-mobile.svg);
       background-repeat: no-repeat;
